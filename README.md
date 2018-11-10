@@ -5,4 +5,4 @@ Simple conway's game of life
 3 And watch.
 
 
-<a href='https://postimg.cc/fVZ2tgc0' target='_blank'><img src='https://i.postimg.cc/fVZ2tgc0/lifegif.gif' border='0' alt='lifegif'/></a>
+<a href='https://postimg.cc/k6rtGLS0' target='_blank'><img src='https://i.postimg.cc/k6rtGLS0/lifegif.gif' border='1' alt='lifegif'/></a>
