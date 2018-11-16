@@ -19,9 +19,8 @@ def neighborhood(x,y):
         counter=0
     for i in range(x-1,x+2):
         for j in range(y-1,y+2):
-            if i>=0 and j>=0 and i<CELL_X and j<CELL_Y:
-                if FIELD[i][j]==1:
-                    counter+=1
+            if FIELD[i%CELL_X][j%CELL_Y]==1:
+                counter+=1
     return counter
 def god():
     NEW_FIELD=[[j for j in i] for i in FIELD]
